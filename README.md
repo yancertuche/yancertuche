@@ -3,7 +3,7 @@ I'm a final year student Bachelor's in Computer Science and Systems Engineering 
   
 -🔭 I’m currently working on my degree project with React.js and Java
 
--🌱 I’m currently learning Nest.js for backend develop
+-🌱 I’m currently learning Nest.js for backend development
 <!--
 **YanCarlosCertucheGrueso/YanCarlosCertucheGrueso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
