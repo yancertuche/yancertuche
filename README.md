@@ -1,10 +1,9 @@
 ### Hi there 👋
-I'm a final year student Bachelor's in Computer Science and Systems Engineering From Pontificia Universidad Javeriana Cali.
+I'm a Computer Scientist and Systems Engineering From Pontificia Universidad Javeriana Cali.
   
-- 🔭 I’m currently working on my degree project with React.js and Java
+- 🔭 I’m FullStack Developer
 - 🌱 I’m currently learning Nest.js for backend development
 - 📫 How to reach me: yancertuche@gmail.com
-- 📝 Checkout my <a href="https://github.com/YanCarlosCertucheGrueso/YanCarlosCertucheGrueso/blob/main/Yan%20Certuche%20CV%20-%20EN.pdf">Resume</a>
 <!--
 **YanCarlosCertucheGrueso/YanCarlosCertucheGrueso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
