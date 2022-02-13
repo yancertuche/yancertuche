@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a Computer Scientist and Systems Engineering From Pontificia Universidad Javeriana Cali.
   
-- 🔭 I’m FullStack Developer
+- 🔭 I’m FullStack Developer (Angular/React and Java/Spring)
 - 🌱 I’m currently learning Nest.js for backend development
 - 📫 How to reach me: yancertuche@gmail.com
 <!--
