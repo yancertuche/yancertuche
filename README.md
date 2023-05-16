@@ -1,10 +1,10 @@
 ### Hi there 👋
 I'm a Computer Scientist and Systems Engineering From Pontificia Universidad Javeriana Cali.
   
-- 🔭 I’m FullStack Developer (Angular/React and Java/Spring)
-- 🌱 I’m currently learning Nest.js for backend development
+- 🔭 I’m FullStack Developer (Angular and Java/SpringBoot)
+- 🌱 I’m currently learning Azure DevOps for pipelines creation.
 - 📫 How to reach me: yancertuche@gmail.com
-- 🚧 Portfolio: 
+- 🚧 Portfolio: https://yancertuche.github.io/portafolio/
 <!--
 **YanCarlosCertucheGrueso/YanCarlosCertucheGrueso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
