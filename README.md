@@ -4,6 +4,7 @@ I'm a Computer Scientist and Systems Engineering From Pontificia Universidad Jav
 - 🔭 I’m FullStack Developer (Angular/React and Java/Spring)
 - 🌱 I’m currently learning Nest.js for backend development
 - 📫 How to reach me: yancertuche@gmail.com
+- 🚧 Portfolio: 
 <!--
 **YanCarlosCertucheGrueso/YanCarlosCertucheGrueso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
